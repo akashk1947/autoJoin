@@ -5,9 +5,9 @@ from telethon.errors import FloodWaitError
 from telethon.tl.functions.channels import JoinChannelRequest
 
 # ========= TELEGRAM API =========
-Mobile = "+917639598222"
-api_id = 34967105
-api_hash = "eae7f54548ca6d1d4e583400fe5916de"
+Mobile = "+919305076450"
+api_id = 30090396
+api_hash = "11f5d664e20c485527bf5492892a6fd8"
 
 session_name = "session"
 
