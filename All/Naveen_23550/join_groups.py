@@ -5,9 +5,9 @@ from telethon.errors import FloodWaitError
 from telethon.tl.functions.channels import JoinChannelRequest
 
 # ========= TELEGRAM API =========
-Mobile = "+919341064944"
-api_id = 38127974
-api_hash = "8dfa36c4bb92beab8fd3439160b7dde8"
+Mobile = "+919329423550"
+api_id = 35574079
+api_hash = "e38cbf7b82aca9aeb9b6d39dd15508f8"
 
 session_name = "session"
 
@@ -61,6 +61,7 @@ async def main():
                 await asyncio.sleep(e.seconds + 5)  # add a buffer
                 print("🔄 Resuming join process after flood wait.")
                 break  # break inner for-loop, restart outer while-loop
+
 
             except Exception as e:
                 print(f"⚠️ Error joining {group}: {e}")

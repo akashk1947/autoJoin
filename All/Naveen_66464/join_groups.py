@@ -5,16 +5,18 @@ from telethon.errors import FloodWaitError
 from telethon.tl.functions.channels import JoinChannelRequest
 
 # ========= TELEGRAM API =========
-Mobile = "+919341064944"
-api_id = 38127974
-api_hash = "8dfa36c4bb92beab8fd3439160b7dde8"
 
-session_name = "session"
+Mobile = "+919327866464"
+api_id = 30677866
+api_hash = "e149d2526a7af3b1a1ec083db3295df2"
+
+# Use mobile number with country code and .session extension
+session_name = f"{Mobile[1:]}.session"
 
 # ========= TIMING =========
 BATCH_SIZE = 5
-SHORT_WAIT = (300, 600)   # 5 between joins
-LONG_WAIT = 500           # 5 minutes rest after batch
+SHORT_WAIT = (600, 900)   # 10-15 minutes between joins
+LONG_WAIT = 300           # 5 minutes rest after batch
 
 # ========= LOAD GROUPS =========
 with open("groups.txt", "r", encoding="utf-8") as f:
@@ -57,10 +59,10 @@ async def main():
                 wait_hours = wait_minutes // 60
                 wait_minutes = wait_minutes % 60
                 print(f"⛔ JOIN FLOODWAIT: {wait_hours} : {wait_minutes} : {wait_seconds}")
-                # print(f"🛑 Flood wait detected. Sleeping for {e.seconds} seconds...")
                 await asyncio.sleep(e.seconds + 5)  # add a buffer
                 print("🔄 Resuming join process after flood wait.")
                 break  # break inner for-loop, restart outer while-loop
+
 
             except Exception as e:
                 print(f"⚠️ Error joining {group}: {e}")

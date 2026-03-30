@@ -51,13 +51,16 @@ async def main():
                     batch_count = 0
 
             except FloodWaitError as e:
-                wait_minutes = e.seconds // 60
                 wait_seconds = e.seconds % 60
-                print(f"⛔ JOIN FLOODWAIT: {wait_minutes} minutes {wait_seconds} seconds")
-                print(f"🛑 Flood wait detected. Sleeping for {e.seconds} seconds...")
+                wait_minutes = e.seconds // 60
+                wait_hours = wait_minutes // 60
+                wait_minutes = wait_minutes % 60
+                print(f"⛔ JOIN FLOODWAIT: {wait_hours} : {wait_minutes} : {wait_seconds}")
+                # print(f"🛑 Flood wait detected. Sleeping for {e.seconds} seconds...")
                 await asyncio.sleep(e.seconds + 5)  # add a buffer
                 print("🔄 Resuming join process after flood wait.")
                 break  # break inner for-loop, restart outer while-loop
+
 
             except Exception as e:
                 print(f"⚠️ Error joining {group}: {e}")

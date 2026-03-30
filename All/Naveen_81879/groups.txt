@@ -7,7 +7,6 @@ https://t.me/itjobsus
 https://t.me/JobReferralsPoland
 https://t.me/jobs_it_india
 https://t.me/IT_Job_Banglore
-https://t.me/UnitedKingdom_Jobs
 https://t.me/it_jobs_uk
 https://t.me/canadaitjobs
 https://t.me/ITJobsOntarioCanada
@@ -29,7 +28,6 @@ https://t.me/jobs_java
 https://t.me/JAVAPROXY_OFFLINE_HYDERABAD_KPHB
 https://t.me/JAVA_Supports
 https://t.me/usukjavajobsupport
-https://t.me/Javatechsupports
 https://t.me/codeitupjava
 https://t.me/javasupportremote
 https://t.me/Javaproxyjobsupport
@@ -67,7 +65,6 @@ https://t.me/pythonfreelancers
 https://t.me/pythonflask
 https://t.me/PythonGlobal
 https://t.me/pythonindiacommunity
-https://t.me/pythonindia
 https://t.me/pythonjobsupdates
 https://t.me/pythonJobOpenings
 https://t.me/pythonproxy
@@ -86,9 +83,7 @@ https://t.me/awsdevopsgroup
 https://t.me/awsandazuresupport
 https://t.me/azuredataengg
 https://t.me/devopsjobgroup
-https://t.me/azuresupport_synapse
 https://t.me/awscloudsupportassociate
-https://t.me/azuredatafactory_azuredatabicks
 https://t.me/awsdevopsgroup2022
 https://t.me/GCP_CLOUD_SUPPORT
 https://t.me/AWS_Exam_Certifications
@@ -115,7 +110,6 @@ https://t.me/SalesforceUSA
 https://t.me/salesforceNagpur
 https://t.me/salesforceusa1
 https://t.me/salesforcencino
-https://t.me/Dmusforcsa
 https://t.me/SalesforceDumps4U
 https://t.me/Salesforcen
 https://t.me/Sfdc_kuldeep
@@ -137,7 +131,6 @@ https://t.me/salesforcetutor
 https://t.me/sfdc_coding
 https://t.me/Sfdctrainingjobsupport
 https://t.me/salesforceparttime
-https://t.me/salesforcechennai
 https://t.me/Salesforce_Trailblazer
 https://t.me/EinsteinAnalytics
 https://t.me/salesforceB
@@ -184,7 +177,6 @@ https://t.me/frontendsupportt
 https://t.me/frontenddisussion
 https://t.me/mernstackwebdevelopers
 https://t.me/react_dev
-https://t.me/webdevelopmentjobs
 https://t.me/reactjs_jobs
 https://t.me/ReactJs_fresher_jobs_bhubaneswar
 https://t.me/mernstackdevs
@@ -229,7 +221,6 @@ https://t.me/testing_jobs_fresshly
 https://t.me/testingsupportt
 https://t.me/testingjobshyderabad
 https://t.me/jobselenium
-https://t.me/QAjobs
 https://t.me/QAsupport24x7
 https://t.me/QAJobsAssistance
 https://t.me/AutomationTestingGroup123
@@ -301,7 +292,6 @@ https://t.me/jobsandservicesall
 https://t.me/it_jobs_hyderabad
 https://t.me/infosys_exam_wipro
 https://t.me/itjobsin
-https://t.me/IndiaITJobPostings
 https://t.me/Jobs_in_the_USA
 https://t.me/cognizant_exam_accenture_groups
 https://t.me/ITCertifications_123
@@ -311,7 +301,6 @@ https://t.me/job_support1
 https://t.me/usaproxysupport
 https://t.me/jobfordotnetdevelopers
 https://t.me/snowtrvit
-https://t.me/isacahelp
 https://t.me/nowgeeks
 https://t.me/work600124
 https://t.me/itandnon
@@ -339,11 +328,9 @@ https://t.me/etltesting999
 https://t.me/freehelpGrp_getjobsoon
 https://t.me/jobsupport0
 https://t.me/microsoftcertificationsupport
-https://t.me/dataengineeringsupport
 https://t.me/dataengineerjob
 https://t.me/Data_Engineering_Support
 https://t.me/DatacenterSupport
-https://t.me/itjobsinterviewgroup
 https://t.me/usasoftwarejobs
 https://t.me/jobsupportI
 https://t.me/golang_us
