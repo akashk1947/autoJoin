@@ -10,11 +10,10 @@ api_id = 38127974
 api_hash = "8dfa36c4bb92beab8fd3439160b7dde8"
 
 session_name = "session"
-
 # ========= TIMING =========
-BATCH_SIZE = 5
-SHORT_WAIT = (300, 600)   # 5 between joins
-LONG_WAIT = 500           # 5 minutes rest after batch
+BATCH_SIZE = 4
+SHORT_WAIT = (150, 300)   # 2.5-5 minutes between joins
+LONG_WAIT = 300           # 5 minutes rest after batch
 
 # ========= LOAD GROUPS =========
 with open("groups.txt", "r", encoding="utf-8") as f:
@@ -42,10 +41,10 @@ async def main():
                 joined.add(group)
                 print(f"✅ Joined total: {join_count}")
 
-                # Random 5–10 minute wait
+                # Random 2.5–5 minute wait
                 await asyncio.sleep(random.randint(*SHORT_WAIT))
 
-                # Batch rest: fixed 10 minutes
+                # Batch rest: fixed 5 minutes
                 if batch_count >= BATCH_SIZE:
                     print("😴 Batch complete. Resting 5 minutes")
                     await asyncio.sleep(LONG_WAIT)
@@ -57,10 +56,10 @@ async def main():
                 wait_hours = wait_minutes // 60
                 wait_minutes = wait_minutes % 60
                 print(f"⛔ JOIN FLOODWAIT: {wait_hours} : {wait_minutes} : {wait_seconds}")
-                # print(f"🛑 Flood wait detected. Sleeping for {e.seconds} seconds...")
                 await asyncio.sleep(e.seconds + 5)  # add a buffer
                 print("🔄 Resuming join process after flood wait.")
                 break  # break inner for-loop, restart outer while-loop
+
 
             except Exception as e:
                 print(f"⚠️ Error joining {group}: {e}")
@@ -69,7 +68,7 @@ async def main():
 
         if len(joined) == len(groups):
             print("🏁 All groups joined. Sleeping 1 hour before checking again.")
-            await asyncio.sleep(3600)
+            await asyncio.sleep(300)
             # Optionally, reload groups.txt here if you want to pick up new groups
         else:
             print("🔄 Not all groups joined, restarting join loop.")

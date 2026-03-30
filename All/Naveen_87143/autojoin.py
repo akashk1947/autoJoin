@@ -12,8 +12,8 @@ api_hash = "8bd763229f15ef23d642ca84149c19d6"
 session_name = "session"
 
 # ========= TIMING =========
-BATCH_SIZE = 5
-SHORT_WAIT = (600, 900)   # 10-15 minutes between joins
+BATCH_SIZE = 4
+SHORT_WAIT = (150, 300)   # 2.5-5 minutes between joins
 LONG_WAIT = 300           # 5 minutes rest after batch
 
 # ========= LOAD GROUPS =========
@@ -23,8 +23,6 @@ with open("groups.txt", "r", encoding="utf-8") as f:
 async def main():
     client = TelegramClient(session_name, api_id, api_hash)
     await client.start()
-    me = await client.get_me()
-    account_label = me.username or me.first_name or Mobile
 
     joined = set()
     while True:
@@ -36,18 +34,18 @@ async def main():
             if group in joined:
                 continue
             try:
-                print(f"➡️ {account_label}_[{idx}/{len(groups)}] Joining: {group}")
+                print(f"➡️ RajRajak_[{idx}/{len(groups)}] Joining: {group}")
                 await client(JoinChannelRequest(group))
 
                 join_count += 1
                 batch_count += 1
                 joined.add(group)
-                print(f"✅ {account_label}_Joined total: {join_count}")
+                print(f"✅ Joined total: {join_count}")
 
-                # Random 5–10 minute wait
+                # Random 2.5–5 minute wait
                 await asyncio.sleep(random.randint(*SHORT_WAIT))
 
-                # Batch rest: fixed 10 minutes
+                # Batch rest: fixed 5 minutes
                 if batch_count >= BATCH_SIZE:
                     print("😴 Batch complete. Resting 5 minutes")
                     await asyncio.sleep(LONG_WAIT)
@@ -71,7 +69,7 @@ async def main():
 
         if len(joined) == len(groups):
             print("🏁 All groups joined. Sleeping 1 hour before checking again.")
-            await asyncio.sleep(3600)
+            await asyncio.sleep(300)
             # Optionally, reload groups.txt here if you want to pick up new groups
         else:
             print("🔄 Not all groups joined, restarting join loop.")
