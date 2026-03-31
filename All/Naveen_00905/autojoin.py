@@ -10,11 +10,10 @@ api_id = 30161672
 api_hash = "733a63f6e54939cf17c2643efa8e1964"
 
 session_name = "session"
-
 # ========= TIMING =========
 BATCH_SIZE = 5
-SHORT_WAIT = (600, 900)   # 10-15 minutes between joins
-LONG_WAIT = 300           # 5 minutes rest after batch
+SHORT_WAIT = (300, 600)   # 5-10 minutes between joins
+LONG_WAIT = 700           # 11 minutes 40 seconds rest after batch
 
 # ========= LOAD GROUPS =========
 with open("groups.txt", "r", encoding="utf-8") as f:
@@ -47,9 +46,9 @@ async def main():
                 # Random 5–10 minute wait
                 await asyncio.sleep(random.randint(*SHORT_WAIT))
 
-                # Batch rest: fixed 10 minutes
+                # Batch rest: fixed 11 minutes 40 seconds
                 if batch_count >= BATCH_SIZE:
-                    print(f"😴 {account_label}_Batch complete. Resting 5 minutes")
+                    print("😴 Batch complete. Resting 11 minutes 40 seconds")
                     await asyncio.sleep(LONG_WAIT)
                     batch_count = 0
 
@@ -58,9 +57,9 @@ async def main():
                 wait_minutes = e.seconds // 60
                 wait_hours = wait_minutes // 60
                 wait_minutes = wait_minutes % 60
-                print(f"⛔ {account_label}_JOIN FLOODWAIT: {wait_hours} : {wait_minutes} : {wait_seconds}")
+                print(f"⛔ JOIN FLOODWAIT: {wait_hours} : {wait_minutes} : {wait_seconds}")
                 await asyncio.sleep(e.seconds + 5)  # add a buffer
-                print(f"🔄 {account_label}_Resuming join process after flood wait.")
+                print("🔄 Resuming join process after flood wait.")
                 break  # break inner for-loop, restart outer while-loop
 
 
