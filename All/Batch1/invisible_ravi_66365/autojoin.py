@@ -5,9 +5,9 @@ from telethon.errors import FloodWaitError
 from telethon.tl.functions.channels import JoinChannelRequest
 
 # ========= TELEGRAM API =========
-Mobile = "+918279314097"
-api_id = 35539518
-api_hash = "107e694326c5ba43a2db58dae27f98bb"
+Mobile = "+919572566365"
+api_id = 33678777
+api_hash = "4275773ac680a632913bdf5d18aab53c"
 
 session_name = "session"
 # ========= TIMING =========
@@ -21,7 +21,7 @@ with open("groups.txt", "r", encoding="utf-8") as f:
 
 async def main():
     client = TelegramClient(session_name, api_id, api_hash)
-    await client.start()
+    await client.start(phone=Mobile)
     me = await client.get_me()
     account_label = me.username or me.first_name or Mobile
 
