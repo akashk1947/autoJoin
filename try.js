@@ -1,4 +1,4 @@
-const arr1 = [
+const arr = [
 "https://t.me/Indian_ITJobs",
 "https://t.me/ITJobsforindiasinUSA",
 "https://t.me/ITJOBSI",
@@ -363,23 +363,10 @@ const arr1 = [
 "https://t.me/CbbaOSruBmZDJl",
 "https://t.me/phpdevelopersindian",
 "https://t.me/phpdevelopers2024",
-"https://t.me/Salesforcejobreferals",
-];
-
-const arr2 = [
-"https://t.me/UnitedKingdom_Jobs",
-"https://t.me/webdevelopmentjobs",
-"https://t.me/isacahelp",
-"https://t.me/azuresupport_synapse",
-"https://t.me/azuredatafactory_azuredatabicks",
-"https://t.me/dataengineeringsupport",
-"https://t.me/indiansoftwarestudentsinabroad",
-];
-
-const arr3 = [];
-for(let i=0; i<arr1.length; i++){
-    if(!arr2.includes(arr1[i])){
-        arr3.push(arr1[i]);
-    }
+"https://t.me/Salesforcejobreferals"
+]
+const arr2 = [];
+for(let i=0; i<arr.length; i++){
+    arr2.push(arr[arr.length-1-i]);
 }
-console.log(arr3.length);
+console.log(arr2.length);
