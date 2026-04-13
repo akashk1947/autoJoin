@@ -1,13 +1,18 @@
+
 import asyncio
 import random
 from telethon import TelegramClient
 from telethon.errors import FloodWaitError
 from telethon.tl.functions.channels import JoinChannelRequest
+from dotenv import load_dotenv
+import os
 
-# ========= TELEGRAM API =========
-Mobile = "+91 7872881129"
-api_id = 33678777
-api_hash = "4275773ac680a632913bdf5d18aab53c"
+
+# ========= TELEGRAM API (from .env) =========
+load_dotenv()
+Mobile = os.getenv("MOBILE")
+api_id = int(os.getenv("API_ID"))
+api_hash = os.getenv("API_HASH")
 
 session_name = "session"
 # ========= TIMING =========
