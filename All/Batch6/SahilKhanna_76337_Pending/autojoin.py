@@ -6,8 +6,8 @@ from telethon.tl.functions.channels import JoinChannelRequest
 
 # ========= TELEGRAM API =========
 Mobile = "+917404776337"
-api_id = 35905363
-api_hash = "0157f754158f7aec2c2860a88b3506a1"
+api_id = 39947744
+api_hash = "1e8fb730b318f7333b78f89ed2199a63"
 
 session_name = "session"
 # ========= TIMING =========

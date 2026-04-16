@@ -5,11 +5,11 @@ from telethon.errors import FloodWaitError
 from telethon.tl.functions.channels import JoinChannelRequest
 
 # ========= TELEGRAM API =========
-Mobile = "+919656412405"
-api_id = 35905363
-api_hash = "0157f754158f7aec2c2860a88b3506a1"
+Mobile = "+917307803251"
+api_id = 39947744
+api_hash = "1e8fb730b318f7333b78f89ed2199a63"
 
-session_name = "session_shamlee"
+session_name = "session"
 # ========= TIMING =========
 BATCH_SIZE = 5
 SHORT_WAIT = (60, 300)   # 1-5 minutes between joins
