@@ -1,0 +1,5 @@
+1. https://t.me/Capgemini_exam_jman_Examgroup | Error: No user has "capgemini_exam_jman_examgroup" as username
+2. https://t.me/CertificationServiceNow | Error: No user has "certificationservicenow" as username
+3. https://t.me/adcsupport | Error: No user has "adcsupport" as username
+4. https://t.me/infosys_exam_wipro | Error: No user has "infosys_exam_wipro" as username
+5. https://t.me/hshshshsudiij | Error: No user has "hshshshsudiij" as username
