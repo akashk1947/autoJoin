@@ -1,0 +1,246 @@
+1. https://t.me/Capgemini_exam_jman_Examgroup | Error: No user has "capgemini_exam_jman_examgroup" as username
+2. https://t.me/CertificationServiceNow | Error: No user has "certificationservicenow" as username
+3. https://t.me/wiprobangalore2021 | Error: The chat is invalid for this request (caused by JoinChannelRequest)
+4. https://t.me/adcsupport | Error: No user has "adcsupport" as username
+5. https://t.me/infosys_exam_wipro | Error: No user has "infosys_exam_wipro" as username
+6. https://t.me/hshshshsudiij | Error: No user has "hshshshsudiij" as username
+7. https://t.me/etldiscussion | Error: No user has "etldiscussion" as username
+8. https://t.me/proxyinterviewjobsupport | Error: No user has "proxyinterviewjobsupport" as username
+9. https://t.me/ProxyJobSupports | Error: No user has "proxyjobsupports" as username
+10. https://t.me/jobsupportsupport | Error: No user has "jobsupportsupport" as username
+11. https://t.me/examdumps2 | Error: No user has "examdumps2" as username
+12. https://t.me/qiwnk | Error: No user has "qiwnk" as username
+13. https://t.me/usa_IT_Training_Job | Error: No user has "usa_it_training_job" as username
+14. https://t.me/IT_jobs_informatica | Error: No user has "it_jobs_informatica" as username
+15. https://t.me/publicdis | Error: No user has "publicdis" as username
+16. https://t.me/etl_test | Error: No user has "etl_test" as username
+17. https://t.me/microsoftal | Error: No user has "microsoftal" as username
+18. https://t.me/etltesting999 | Error: No user has "etltesting999" as username
+19. https://t.me/freehelpGrp_getjobsoon | Error: No user has "freehelpgrp_getjobsoon" as username
+20. https://t.me/jobsupport0 | Error: No user has "jobsupport0" as username
+21. https://t.me/microsoftcertificationsupport | Error: No user has "microsoftcertificationsupport" as username
+22. https://t.me/dataengineerjob | Error: No user has "dataengineerjob" as username
+23. https://t.me/Data_Engineering_Support | Error: No user has "data_engineering_support" as username
+24. https://t.me/DatacenterSupport | Error: No user has "datacentersupport" as username
+25. https://t.me/usasoftwarejobs | Error: No user has "usasoftwarejobs" as username
+26. https://t.me/jobsupportI | Error: No user has "jobsupporti" as username
+27. https://t.me/golang_us | Error: No user has "golang_us" as username
+28. https://t.me/FreelanceJobSupport | Error: No user has "freelancejobsupport" as username
+29. https://t.me/cosmicitjobs | Error: No user has "cosmicitjobs" as username
+30. https://t.me/interviewproxyservice | Error: No user has "interviewproxyservice" as username
+31. https://t.me/jobSupportUSACanada | Error: Cannot send requests while disconnected
+32. https://t.me/php_canada | Error: Cannot send requests while disconnected
+33. https://t.me/devops_jobs_ca | Error: Cannot send requests while disconnected
+34. https://t.me/referraljobs | Error: Cannot send requests while disconnected
+35. https://t.me/usainterviewsupport | Error: Cannot send requests while disconnected
+36. https://t.me/itoutstaffing | Error: Cannot send requests while disconnected
+37. https://t.me/Interviewproxy | Error: Cannot send requests while disconnected
+38. https://t.me/Informaticaworksupport | Error: Cannot send requests while disconnected
+39. https://t.me/interview_proxy_d | Error: Cannot send requests while disconnected
+40. https://t.me/awsinterview | Error: Cannot send requests while disconnected
+41. https://t.me/awsnkcp | Error: Cannot send requests while disconnected
+42. https://t.me/CrazyProgrammer_IT_IS | Error: Cannot send requests while disconnected
+43. https://t.me/oa_interview_help | Error: Cannot send requests while disconnected
+44. https://t.me/InterviewDiscussions2021 | Error: Cannot send requests while disconnected
+45. https://t.me/US_IT | Error: Cannot send requests while disconnected
+46. https://t.me/helipinghand_jobs | Error: Cannot send requests while disconnected
+47. https://t.me/freelancejobs07 | Error: Cannot send requests while disconnected
+48. https://t.me/cloudcomputingupdates | Error: Cannot send requests while disconnected
+49. https://t.me/Cloud_Computing_NPTEL | Error: Cannot send requests while disconnected
+50. https://t.me/leetcodegfgdailysolution | Error: Cannot send requests while disconnected
+51. https://t.me/ITjobRefferal | Error: Cannot send requests while disconnected
+52. https://t.me/CbbaOSruBmZDJl | Error: Cannot send requests while disconnected
+53. https://t.me/phpdevelopersindian | Error: Cannot send requests while disconnected
+54. https://t.me/data_science9 | Error: Cannot send requests while disconnected
+55. https://t.me/Salesforcejobreferals | Error: Cannot send requests while disconnected
+56. https://t.me/politoDSE | Error: Cannot send requests while disconnected
+57. https://t.me/SalesforceC | Error: Cannot send requests while disconnected
+58. https://t.me/SFMaps | Error: Cannot send requests while disconnected
+59. https://t.me/Snowjobsupport | Error: Cannot send requests while disconnected
+60. https://t.me/Indian_ITJobs | Error: Cannot send requests while disconnected
+61. https://t.me/ITJobsforindiasinUSA | Error: Cannot send requests while disconnected
+62. https://t.me/ITJOBSI | Error: Cannot send requests while disconnected
+63. https://t.me/India_IT_JOBS | Error: Cannot send requests while disconnected
+64. https://t.me/jobs_it | Error: Cannot send requests while disconnected
+65. https://t.me/itjobsus | Error: Cannot send requests while disconnected
+66. https://t.me/JobReferralsPoland | Error: Cannot send requests while disconnected
+67. https://t.me/jobs_it_india | Error: Cannot send requests while disconnected
+68. https://t.me/IT_Job_Banglore | Error: Cannot send requests while disconnected
+69. https://t.me/it_jobs_uk | Error: Cannot send requests while disconnected
+70. https://t.me/canadaitjobs | Error: Cannot send requests while disconnected
+71. https://t.me/ITJobsOntarioCanada | Error: Cannot send requests while disconnected
+72. https://t.me/ITJobsIndiaUSA | Error: Cannot send requests while disconnected
+73. https://t.me/USAH1BJOBS | Error: Cannot send requests while disconnected
+74. https://t.me/IT_Jobs_Europe | Error: Cannot send requests while disconnected
+75. https://t.me/Europedev | Error: Cannot send requests while disconnected
+76. https://t.me/placement_batch_2025 | Error: Cannot send requests while disconnected
+77. https://t.me/placementgroup1 | Error: Cannot send requests while disconnected
+78. https://t.me/placementkit | Error: Cannot send requests while disconnected
+79. https://t.me/jobintern | Error: Cannot send requests while disconnected
+80. https://t.me/it_freshers_placements | Error: Cannot send requests while disconnected
+81. https://t.me/placementonoffcampus | Error: Cannot send requests while disconnected
+82. https://t.me/python_professional | Error: Cannot send requests while disconnected
+83. https://t.me/javadeveloperdoubts | Error: Cannot send requests while disconnected
+84. https://t.me/SpringbootReactMicroservices | Error: Cannot send requests while disconnected
+85. https://t.me/springbooteasy | Error: Cannot send requests while disconnected
+86. https://t.me/jobs_java | Error: Cannot send requests while disconnected
+87. https://t.me/JAVAPROXY_OFFLINE_HYDERABAD_KPHB | Error: Cannot send requests while disconnected
+88. https://t.me/JAVA_Supports | Error: Cannot send requests while disconnected
+89. https://t.me/usukjavajobsupport | Error: Cannot send requests while disconnected
+90. https://t.me/codeitupjava | Error: Cannot send requests while disconnected
+91. https://t.me/javasupportremote | Error: Cannot send requests while disconnected
+92. https://t.me/Javaproxyjobsupport | Error: Cannot send requests while disconnected
+93. https://t.me/javasupporthydbglr | Error: Cannot send requests while disconnected
+94. https://t.me/java_py_script | Error: Cannot send requests while disconnected
+95. https://t.me/javaprojectgroup | Error: Cannot send requests while disconnected
+96. https://t.me/usa_java_jobs_support | Error: Cannot send requests while disconnected
+97. https://t.me/springbootjavadev | Error: Cannot send requests while disconnected
+98. https://t.me/Java_Certification | Error: Cannot send requests while disconnected
+99. https://t.me/javadeve | Error: Cannot send requests while disconnected
+100. https://t.me/javafreelancers1 | Error: Cannot send requests while disconnected
+101. https://t.me/usa_java_spring_job_support | Error: Cannot send requests while disconnected
+102. https://t.me/java_jobs | Error: Cannot send requests while disconnected
+103. https://t.me/java_interview_experiences | Error: Cannot send requests while disconnected
+104. https://t.me/springframeworks | Error: Cannot send requests while disconnected
+105. https://t.me/java_job_support_online | Error: Cannot send requests while disconnected
+106. https://t.me/java_jobs_inteview_support_proxy | Error: Cannot send requests while disconnected
+107. https://t.me/javazeal | Error: Cannot send requests while disconnected
+108. https://t.me/javainterviewetrainingcenter | Error: Cannot send requests while disconnected
+109. https://t.me/javafullstack_stackroute | Error: Cannot send requests while disconnected
+110. https://t.me/javajobopenings | Error: Cannot send requests while disconnected
+111. https://t.me/JavaSupportGroup | Error: Cannot send requests while disconnected
+112. https://t.me/Javasupport10 | Error: Cannot send requests while disconnected
+113. https://t.me/python_programmers_club | Error: Cannot send requests while disconnected
+114. https://t.me/flask_python_usa | Error: Cannot send requests while disconnected
+115. https://t.me/django_usa | Error: Cannot send requests while disconnected
+116. https://t.me/pythonproexpert | Error: Cannot send requests while disconnected
+117. https://t.me/pythonjobs | Error: Cannot send requests while disconnected
+118. https://t.me/python_interview_q_a | Error: Cannot send requests while disconnected
+119. https://t.me/python_india | Error: Cannot send requests while disconnected
+120. https://t.me/Python_Discussions_India | Error: Cannot send requests while disconnected
+121. https://t.me/PythonEx | Error: Cannot send requests while disconnected
+122. https://t.me/pythonedureka | Error: Cannot send requests while disconnected
+123. https://t.me/pythonfreelancers | Error: Cannot send requests while disconnected
+124. https://t.me/pythonflask | Error: Cannot send requests while disconnected
+125. https://t.me/PythonGlobal | Error: Cannot send requests while disconnected
+126. https://t.me/pythonindiacommunity | Error: Cannot send requests while disconnected
+127. https://t.me/pythonjobsupdates | Error: Cannot send requests while disconnected
+128. https://t.me/pythonJobOpenings | Error: Cannot send requests while disconnected
+129. https://t.me/pythonproxy | Error: Cannot send requests while disconnected
+130. https://t.me/pythonproxysupport | Error: Cannot send requests while disconnected
+131. https://t.me/pythonsupportt | Error: Cannot send requests while disconnected
+132. https://t.me/datascienceproxyhelp | Error: Cannot send requests while disconnected
+133. https://t.me/dstrainings | Error: Cannot send requests while disconnected
+134. https://t.me/coding_support_AI_Datascience_DE | Error: Cannot send requests while disconnected
+135. https://t.me/Datascienceproxysupport | Error: Cannot send requests while disconnected
+136. https://t.me/awsLearningGroup | Error: Cannot send requests while disconnected
+137. https://t.me/data_microsoft_azure | Error: Cannot send requests while disconnected
+138. https://t.me/gcpcertifications | Error: Cannot send requests while disconnected
+139. https://t.me/AWSDevopsfree | Error: Cannot send requests while disconnected
+140. https://t.me/Az400AzureDevopsSupport | Error: Cannot send requests while disconnected
+141. https://t.me/awsdevopsgroup | Error: Cannot send requests while disconnected
+142. https://t.me/awsandazuresupport | Error: Cannot send requests while disconnected
+143. https://t.me/azuredataengg | Error: Cannot send requests while disconnected
+144. https://t.me/devopsjobgroup | Error: Cannot send requests while disconnected
+145. https://t.me/awscloudsupportassociate | Error: Cannot send requests while disconnected
+146. https://t.me/awsdevopsgroup2022 | Error: Cannot send requests while disconnected
+147. https://t.me/GCP_CLOUD_SUPPORT | Error: Cannot send requests while disconnected
+148. https://t.me/AWS_Exam_Certifications | Error: Cannot send requests while disconnected
+149. https://t.me/SAP_AWS | Error: Cannot send requests while disconnected
+150. https://t.me/awsdevopsjobs | Error: Cannot send requests while disconnected
+151. https://t.me/devopshelps | Error: Cannot send requests while disconnected
+152. https://t.me/devopsfreelancers | Error: Cannot send requests while disconnected
+153. https://t.me/AzureDataFactory_Brasil | Error: Cannot send requests while disconnected
+154. https://t.me/azure_data_engineerg | Error: Cannot send requests while disconnected
+155. https://t.me/azuredevelopmentgroup | Error: Cannot send requests while disconnected
+156. https://t.me/azuredevopspro | Error: Cannot send requests while disconnected
+157. https://t.me/MS_AZ_500 | Error: Cannot send requests while disconnected
+158. https://t.me/AzureTalkJobs | Error: Cannot send requests while disconnected
+159. https://t.me/k21amazonaws | Error: Cannot send requests while disconnected
+160. https://t.me/AWS_GCP_Cloud | Error: Cannot send requests while disconnected
+161. https://t.me/linuxanddevops | Error: Cannot send requests while disconnected
+162. https://t.me/saleforcejobs | Error: Cannot send requests while disconnected
+163. https://t.me/salesforceIndiajobs | Error: Cannot send requests while disconnected
+164. https://t.me/SalesforceJobSupportUSA | Error: Cannot send requests while disconnected
+165. https://t.me/mathurasalesforcedug | Error: Cannot send requests while disconnected
+166. https://t.me/salesforcewebsoft | Error: Cannot send requests while disconnected
+167. https://t.me/ForceJobs | Error: Cannot send requests while disconnected
+168. https://t.me/SalesforceUSA | Error: Cannot send requests while disconnected
+169. https://t.me/salesforceNagpur | Error: Cannot send requests while disconnected
+170. https://t.me/salesforceusa1 | Error: Cannot send requests while disconnected
+171. https://t.me/salesforcencino | Error: Cannot send requests while disconnected
+172. https://t.me/SalesforceDumps4U | Error: Cannot send requests while disconnected
+173. https://t.me/Salesforcen | Error: Cannot send requests while disconnected
+174. https://t.me/Sfdc_kuldeep | Error: Cannot send requests while disconnected
+175. https://t.me/SalesforceDevsWorld | Error: Cannot send requests while disconnected
+176. https://t.me/ForceCertified | Error: Cannot send requests while disconnected
+177. https://t.me/salesforcee | Error: Cannot send requests while disconnected
+178. https://t.me/salesforcefreelancers | Error: Cannot send requests while disconnected
+179. https://t.me/salesforceusajobs | Error: Cannot send requests while disconnected
+180. https://t.me/SalesforceA | Error: Cannot send requests while disconnected
+181. https://t.me/sfdcinterviewquestions | Error: Cannot send requests while disconnected
+182. https://t.me/SalesforceProxyIntervies | Error: Cannot send requests while disconnected
+183. https://t.me/salesforcePK | Error: Cannot send requests while disconnected
+184. https://t.me/salesforcebatch3 | Error: Cannot send requests while disconnected
+185. https://t.me/salesforceShorts | Error: Cannot send requests while disconnected
+186. https://t.me/salesforceAdminfree | Error: Cannot send requests while disconnected
+187. https://t.me/salesforce_administrator | Error: Cannot send requests while disconnected
+188. https://t.me/SfProfAdmins | Error: Cannot send requests while disconnected
+189. https://t.me/salesforcetutor | Error: Cannot send requests while disconnected
+190. https://t.me/sfdc_coding | Error: Cannot send requests while disconnected
+191. https://t.me/Sfdctrainingjobsupport | Error: Cannot send requests while disconnected
+192. https://t.me/salesforceparttime | Error: Cannot send requests while disconnected
+193. https://t.me/Salesforce_Trailblazer | Error: Cannot send requests while disconnected
+194. https://t.me/EinsteinAnalytics | Error: Cannot send requests while disconnected
+195. https://t.me/salesforceB | Error: Cannot send requests while disconnected
+196. https://t.me/salesforcebra | Error: Cannot send requests while disconnected
+197. https://t.me/Salesforce_DevOps | Error: Cannot send requests while disconnected
+198. https://t.me/salesforcedevs | Error: Cannot send requests while disconnected
+199. https://t.me/SalesforceDevelopers_Hyd | Error: Cannot send requests while disconnected
+200. https://t.me/sfdcCerts | Error: Cannot send requests while disconnected
+201. https://t.me/SFb2bCom | Error: Cannot send requests while disconnected
+202. https://t.me/salesforceaccreditation | Error: Cannot send requests while disconnected
+203. https://t.me/SalesforceCertSupport | Error: Cannot send requests while disconnected
+204. https://t.me/salesforcesupport23 | Error: Cannot send requests while disconnected
+205. https://t.me/Salesforcehelp1 | Error: Cannot send requests while disconnected
+206. https://t.me/SALESFORCESUPPORTA | Error: Cannot send requests while disconnected
+207. https://t.me/SalesforceSupportHelp | Error: Cannot send requests while disconnected
+208. https://t.me/SalesforceSuppor | Error: Cannot send requests while disconnected
+209. https://t.me/salesforcesupportg | Error: Cannot send requests while disconnected
+210. https://t.me/SalesforceCertificationHelp | Error: Cannot send requests while disconnected
+211. https://t.me/salesforcecertifications_1 | Error: Cannot send requests while disconnected
+212. https://t.me/salesforceCertificationsA | Error: Cannot send requests while disconnected
+213. https://t.me/SalesforceDumz | Error: Cannot send requests while disconnected
+214. https://t.me/SalesforceDoubtsDiscusson | Error: Cannot send requests while disconnected
+215. https://t.me/SalesforceGloball | Error: Cannot send requests while disconnected
+216. https://t.me/salesforcegroupsupport | Error: Cannot send requests while disconnected
+217. https://t.me/salesforcegroup | Error: Cannot send requests while disconnected
+218. https://t.me/salesforcesupportforall | Error: Cannot send requests while disconnected
+219. https://t.me/salesforcesupports | Error: Cannot send requests while disconnected
+220. https://t.me/angularjsdev | Error: Cannot send requests while disconnected
+221. https://t.me/angular_ua_job | Error: Cannot send requests while disconnected
+222. https://t.me/proxyforreactjs | Error: Cannot send requests while disconnected
+223. https://t.me/React_JS_India | Error: Cannot send requests while disconnected
+224. https://t.me/reactjs_and_nodejs | Error: Cannot send requests while disconnected
+225. https://t.me/reactethiopa | Error: Cannot send requests while disconnected
+226. https://t.me/javascript_groups | Error: Cannot send requests while disconnected
+227. https://t.me/fullstackdevelopmentlive | Error: Cannot send requests while disconnected
+228. https://t.me/react_support | Error: Cannot send requests while disconnected
+229. https://t.me/htmlcssdesining | Error: Cannot send requests while disconnected
+230. https://t.me/nextjs_reactjs | Error: Cannot send requests while disconnected
+231. https://t.me/nodejsn | Error: Cannot send requests while disconnected
+232. https://t.me/mernstackrpojectsunder100 | Error: Cannot send requests while disconnected
+233. https://t.me/frontendo | Error: Cannot send requests while disconnected
+234. https://t.me/web_dev_support | Error: Cannot send requests while disconnected
+235. https://t.me/frontendsupportt | Error: Cannot send requests while disconnected
+236. https://t.me/frontenddisussion | Error: Cannot send requests while disconnected
+237. https://t.me/mernstackwebdevelopers | Error: Cannot send requests while disconnected
+238. https://t.me/react_dev | Error: Cannot send requests while disconnected
+239. https://t.me/reactjs_jobs | Error: Cannot send requests while disconnected
+240. https://t.me/ReactJs_fresher_jobs_bhubaneswar | Error: Cannot send requests while disconnected
+241. https://t.me/mernstackdevs | Error: Cannot send requests while disconnected
+242. https://t.me/uiuxindian | Error: Cannot send requests while disconnected
+243. https://t.me/angularTechSupportGroup | Error: Cannot send requests while disconnected
+244. https://t.me/reactjobsexp | Error: Cannot send requests while disconnected
+245. https://t.me/reactproxyind | Error: Cannot send requests while disconnected
+246. https://t.me/PHP_Developers2 | Error: Cannot send requests while disconnected
