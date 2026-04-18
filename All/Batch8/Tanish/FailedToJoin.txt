@@ -1,0 +1,3 @@
+1. https://t.me/Capgemini_exam_jman_Examgroup | Error: No user has "capgemini_exam_jman_examgroup" as username
+2. https://t.me/CertificationServiceNow | Error: No user has "certificationservicenow" as username
+3. https://t.me/wiprobangalore2021 | Error: The chat is invalid for this request (caused by JoinChannelRequest)

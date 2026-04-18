@@ -5,3 +5,13 @@
 5. https://t.me/hshshshsudiij | Error: No user has "hshshshsudiij" as username
 6. https://t.me/publicdis | Error: No user has "publicdis" as username
 7. https://t.me/etl_test | Error: No user has "etl_test" as username
+8. https://t.me/IT_Job_Banglore | Error: No user has "it_job_banglore" as username
+9. https://t.me/placement_batch_2025 | Error: No user has "placement_batch_2025" as username
+10. https://t.me/usa_java_spring_job_support | Error: No user has "usa_java_spring_job_support" as username
+11. https://t.me/devopsjobgroup | Error: No user has "devopsjobgroup" as username
+12. https://t.me/awsdevopsgroup2022 | Error: No user has "awsdevopsgroup2022" as username
+13. https://t.me/AWS_GCP_Cloud | Error: The chat is invalid for this request (caused by JoinChannelRequest)
+14. https://t.me/salesforcebra | Error: No user has "salesforcebra" as username
+15. https://t.me/salesforcesupports | Error: No user has "salesforcesupports" as username
+16. https://t.me/angular_ua_job | Error: No user has "angular_ua_job" as username
+17. https://t.me/reactethiopa | Error: No user has "reactethiopa" as username
